@@ -1,1 +1,3 @@
-var teste = teste;
+var teste1 = teste;
+
+var teste = "outracoisa";
